@@ -1,0 +1,46 @@
+.indexbackground{
+	background-color: #9fa3c4;}
+
+.servicesbackground{
+	background-color: #56ffb3;}
+
+h1 {
+	font-family: Arial;
+	font-size: 20;
+	color: #ee3e80;}
+
+p{
+	font-family: Arial;}
+	
+nav{
+	background-color: black;
+	}
+	
+.list{
+	font-family: Arial;
+    font-size: 14;
+    color: #d800ff;}
+
+dt{
+	font-weight: bold;
+	text-decoration: underline;}
+
+a:link {
+    color: red;
+	font-weight: bold;}
+
+a:visited {
+	color: red;}
+
+a:hover {
+	color: red;}
+
+.footerstyle{
+	background-color: #a7f99f;
+	font-family: Arial;}
+
+ul{
+	list-style-type: square;}	
+	
+
+
