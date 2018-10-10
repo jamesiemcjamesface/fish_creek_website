@@ -5,11 +5,23 @@
 	background-color: #56ffb3;}
 
 h1 {
+	position: fixed;
 	margin-left: auto;
 	margin-right: auto;
 	font-family: Arial;
 	font-size: 20;
 	color: #ee3e80;}
+
+/* I just use ID here as an example - it would probably be better to use this as a class or tag rule under h2 instead of as an ID */ 
+#subheading {
+	margin-left: auto;
+	margin-right: auto;
+	position: fixed;
+	font-family: Arial;
+	font-size: 17;
+	font-color: #ee3e80;
+	}
+	
 
 p{
 	font-family: Arial;}
