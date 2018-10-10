@@ -5,6 +5,8 @@
 	background-color: #56ffb3;}
 
 h1 {
+	margin-left: auto;
+	margin-right: auto;
 	font-family: Arial;
 	font-size: 20;
 	color: #ee3e80;}
@@ -38,6 +40,7 @@ a:hover {
 .footerstyle{
 	background-color: #a7f99f;
 	font-family: Arial;}
+
 
 ul{
 	list-style-type: square;}	
